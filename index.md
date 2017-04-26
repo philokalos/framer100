@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to framer100 pages
 
 You can use the [editor on GitHub](https://github.com/philokalos/framer100/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
